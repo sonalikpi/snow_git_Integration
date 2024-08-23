@@ -1,1 +1,1 @@
-create or replace table dummy (col varchar)
+create table dummy_tbl (col varchar);
